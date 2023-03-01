@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ad721141.css",
+    "main.js": "./static/js/main.3aac3f24.js",
+    "static/media/HeaderFon.jpg": "./static/media/HeaderFon.fc782717f7cdecc79abd.jpg",
+    "static/media/get-in-touch.jpg": "./static/media/get-in-touch.70f65689265d1146b81d.jpg",
+    "static/media/Plan.jpg": "./static/media/Plan.fcf462bfa3f55de42138.jpg",
+    "static/media/Build.jpg": "./static/media/Build.b8c844be4f6a8cb91f03.jpg",
+    "static/media/Manage.jpg": "./static/media/Manage.699798119e0660c2dc70.jpg",
+    "static/media/icon_font.svg?vwreeu": "./static/media/icon_font.22b4cb9a6b9cef6035ca.svg",
+    "static/media/icon_font.woff?vwreeu": "./static/media/icon_font.02014564fb06059e5b32.woff",
+    "static/media/icon_font.ttf?vwreeu": "./static/media/icon_font.2ff82a93387005fe5ab1.ttf",
+    "index.html": "./index.html",
+    "main.ad721141.css.map": "./static/css/main.ad721141.css.map",
+    "main.3aac3f24.js.map": "./static/js/main.3aac3f24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad721141.css",
+    "static/js/main.3aac3f24.js"
+  ]
+}
